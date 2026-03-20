@@ -4,3 +4,9 @@ git init --iniciar repositorio
 git status --ver el estado del repositorio
 git add Archivo --agregar archivo
 git add . --agregar todos los archivos
+git commit -m "Mensaje" --hacer commmit a los archivos agregados; es importante ser descriptivo con el Mensaje
+git reset archivo-- quitar archivo del state
+git reset .-- quitar archivo del state
+git restore archivo -- regresar al ultimo commit algun archivo
+git log --ver historial del repositorio
+git diff --muestra la diferencia
