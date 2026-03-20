@@ -10,3 +10,7 @@ git reset .-- quitar archivo del state
 git restore archivo -- regresar al ultimo commit algun archivo
 git log --ver historial del repositorio
 git diff --muestra la diferencia
+git branch --lista de todas las ramas
+git branch nombre de rama--crear la rama
+git checkout "nombre de tu rama"--cambias de rama
+git merge nombre de la rama--hacer merge a las otras ramas
