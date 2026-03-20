@@ -14,3 +14,8 @@ git branch --lista de todas las ramas
 git branch nombre de rama--crear la rama
 git checkout "nombre de tu rama"--cambias de rama
 git merge nombre de la rama--hacer merge a las otras ramas
+
+Github
+
+git push --hacer cambios remotos
+git pull --jalar archivos
