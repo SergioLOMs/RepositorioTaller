@@ -1,0 +1,6 @@
+git config --global user.name "Tu nombre" --configuración inicial
+git config --global user.email "Tu correo" --configuración inicial
+git init --iniciar repositorio
+git status --ver el estado del repositorio
+git add Archivo --agregar archivo
+git add . --agregar todos los archivos
